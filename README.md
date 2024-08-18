@@ -1,4 +1,4 @@
-![logo](https://github.com/Khushi-83/Khushi-83/blob/main/Khushi%20Sinha_poster.png)
+![logo]([https://github.com/Khushi-83/Khushi-83/blob/main/Khushi%20Sinha_poster.png](https://github.com/Khushi-83/Khushi-83/blob/main/Khushi%20Sinha_poster_cropped.png))
 <h1 align="center">Hi 👋, I'm Khushi Sinha</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
