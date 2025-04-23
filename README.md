@@ -6,13 +6,15 @@
 
 - 🌱 I’m currently learning **Full-stack and Flutter**
 
-- 📝 I regularly write articles on [https://write.geeksforgeeks.org/](https://write.geeksforgeeks.org/)
+- 📝 I regularly write articles on [Geeks for Geeks](https://write.geeksforgeeks.org/)
 
 - 💬 Ask me about **web dev and android dev**
 
 - 📫 How to reach me **sinhakhushi0803@gmail.com**
 
 - 📄 Know about my experiences ([My Resume](https://drive.google.com/file/d/1kJroc_P3qREkTzQkHSvVQZxz49w7l4tq/view?usp=sharing))
+
+- 🌍 [Track me here ](https://portfolio-khushi83.vercel.app/)
 
 - ⚡ Fun fact **The first computer programming language was called "Plankalkül," and it was designed by Konrad Zuse in the late 1940s. However, it was not implemented until the 1990s due to technological limitations at the time.**
 
