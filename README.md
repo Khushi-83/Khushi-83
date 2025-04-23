@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sinhakhushi0803@gmail.com**
 
-- 📄 Know about my experiences ([My Resume](https://drive.google.com/file/d/1kJroc_P3qREkTzQkHSvVQZxz49w7l4tq/view?usp=sharing))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kJroc_P3qREkTzQkHSvVQZxz49w7l4tq/view?usp=sharing)
 
 - 🌍 [Track me here ](https://portfolio-khushi83.vercel.app/)
 
