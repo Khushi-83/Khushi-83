@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and sol
 
 ## 📫 Connect With Me
 
-- **Email:** [Your Email Address]
+- **Email:** [sinhakhushi0803@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile URL]
 - **Twitter:** [Your Twitter Handle]
 
