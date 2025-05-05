@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Sinha</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi-83&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-83" />
-</p>
-
 - 🌱 I’m currently learning **Full-stack and Flutter**  
 - 📝 I regularly write articles on [Geeks for Geeks](https://write.geeksforgeeks.org/)  
 - 💬 Ask me about **web dev and android dev**  
