@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Sinha</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Full-stack and Flutter**  
-- 📝 I regularly write articles on [Geeks for Geeks](https://write.geeksforgeeks.org/)  
+- 🌱 I’m currently learning **Full-stack and Flutter**   
 - 💬 Ask me about **MERN stack and FLUTTER**  
 - 📫 How to reach me: **sinhakhushi0803@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1kJroc_P3qREkTzQkHSvVQZxz49w7l4tq/view?usp=sharing)  
