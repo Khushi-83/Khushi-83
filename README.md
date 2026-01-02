@@ -47,9 +47,9 @@
 
 ---
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 
-<!-- <p align="left">
+ <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-83&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
