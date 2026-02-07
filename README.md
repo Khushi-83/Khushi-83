@@ -58,8 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-83" alt="GitHub Streak" />
 </p> -->
 
----
-
 <!---
 Khushi-83/Khushi-83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
