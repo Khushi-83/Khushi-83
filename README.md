@@ -11,9 +11,6 @@
 
 ---
 
-
----
-
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/khushisinha83" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
