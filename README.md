@@ -5,7 +5,8 @@
 - 💬 Ask me about **MERN stack and Gen AI**  
 - 📫 How to reach me: **ks1393990@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1kJroc_P3qREkTzQkHSvVQZxz49w7l4tq/view?usp=sharing)  
-- 🌍 [Track me here](https://portfolio-khushi83.vercel.app/)  
+- 🌍 [Track me here](https://portfolio-khushi83.vercel.app/)
+- Leetcode:(https://leetcode.com/u/khushisinha83/)
 - ⚡ Fun fact: *The first computer programming language was called "Plankalkül," and it was designed by Konrad Zuse in the late 1940s. However, it was not implemented until the 1990s due to technological limitations at the time.*
 - Taking a dive into the world of Cloud and Devops 
 
